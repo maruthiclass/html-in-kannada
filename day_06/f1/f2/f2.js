@@ -1,0 +1,1 @@
+console.log('Javascript Code from f2.js')
