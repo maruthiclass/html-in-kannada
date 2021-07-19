@@ -2,5 +2,5 @@
     "editor.fontFamily": "'Cascadia Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "editor.mouseWheelZoom": true,
-    "window.zoomLevel": 3
+    "window.zoomLevel": 2
 }
